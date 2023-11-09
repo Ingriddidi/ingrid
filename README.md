@@ -1,6 +1,3 @@
-### Hi there
-
-<!--
 **Ingriddidi/ingrid**
 
 - 🔭 Atualmente estou estudando `HTML` e `CSS`.
